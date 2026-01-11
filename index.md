@@ -10,6 +10,5 @@ Welcome to aim-sec, an application security blog. I write articles about AppSec 
 - **Rememdiation** -- Pointing out a problem is much more helpful when you have the solution.
 
 ## Articles
-- [**👨‍🔬CVE-2016-1000027 with c3p0**]({{ "/articles/CVE-2016-1000027_with_c3p0.md" | relative_url }} "CVE-2016-1000027 with c3p0")
-- **👨‍🔬[CVE-2016-1000027 with c3p0](https://aim-sec.github.io/articles/CVE-2016-1000027_wtih_c3p0.md)** 
+- **👨‍🔬[CVE-2016-1000027 with c3p0](https://aim-sec.github.io/articles/CVE-2016-1000027_with_c3p0)** 
 

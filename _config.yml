@@ -1,0 +1,11 @@
+title: aim-sec
+description: Application Security blog
+url: "https://aim-sec.github.io"
+baseurl: ""  # Empty baseurl is okay for GitHub Pages
+permalink: /articles/:title.html
+show_downloads: false
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
